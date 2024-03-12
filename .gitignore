@@ -1,0 +1,23 @@
+# ROS data
+/install/
+/build/
+/log/
+
+# Compile tools
+/rust/
+/poetry/
+/pyenv/
+
+# Bridge
+/bridge_log/
+/autoware_log/
+
+# Ignore autoware source code
+/autoware/
+
+# Ignore editor files
+*~
+.*~
+\#*#
+*.swp
+*.swo
